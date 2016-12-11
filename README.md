@@ -17,3 +17,4 @@
 ```
 
 I'll present the prototype 15 December at Milano Chatbot meetup.
+Slides: http://www.slideshare.net/convcomp2016/naif-ruby-micro-framework-to-build-dumb-chat-machines
