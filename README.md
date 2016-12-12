@@ -5,7 +5,7 @@
 # Introduction (15 December at Milano Chatbot meetup)
 
 * [SLIDES](https://medium.com/@solyarisoftware/naif-ruby-micro-framework-to-build-dumb-chat-machines-5c552a8c8f7e#.exp91nt72)
-  ![naif presentation logo](https://cdn-images-1.medium.com/max/1000/1*QVwREHG46ysGigN6Zr4EZg.png)
+  ![naif presentation logo](https://cdn-images-1.medium.com/max/1000/1*cjrKtOHTFo9r3bcCR45_mw.png)
 
 * [Milano Chatbot meetup web page](https://www.meetup.com/it-IT/Milano-Chatbots-Meetup/events/235776931/)
 
