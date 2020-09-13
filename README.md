@@ -1,5 +1,7 @@
 # naif
 
+**This repository is obsolete/not maintained. I recently released as opensource the porting to nodejs version: https://github.com/solyarisoftware/naifjs **
+
 Ruby micro-framework to build dumb chat-machines
 
 ## Introduction (15 December at Milano Chatbot meetup)
